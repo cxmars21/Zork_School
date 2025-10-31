@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=InventoryItem
+comment1.params=newName\ newDescription\ newWeight
+comment1.target=InventoryItem(java.lang.String,\ java.lang.String,\ double)
+comment1.text=\r\n\ InventoryItem\ class\ constructor\r\n\ \r\n\ @param\:\ a\ string\ to\ set\ the\ name\ of\ an\ InventoryItem\ ojbect\r\n\ @param\:\ a\ string\ to\ set\ the\ description\ of\ a\ InventoryItem\ ojbect\r\n\ @param\:\ a\ double\ to\ set\ the\ name\ of\ the\ weight\ of\ an\ InventoryItem\ \r\n
+comment2.params=newName
+comment2.target=void\ setName(java.lang.String)
+comment2.text=\r\n\ Mutator\ method\ called\ "setName"\r\n\ \ \ \ \ This\ method\ is\ used\ to\ change\ the\ name\ of\ a\ InventoryItem\ ojbect\r\n\ \ \ \ \ @param\:\ a\ String\ to\ update\ the\ name\ of\ a\ InventoryItem\ ojbect\r\n
+comment3.params=newDescription
+comment3.target=void\ setDescription(java.lang.String)
+comment3.text=\r\n\ \ \ \ \ Mutator\ method\ called\ "setDescription"\r\n\ \ \ \ \ This\ method\ is\ used\ to\ change\ the\ description\ of\ a\ InventoryItem\ ojbect\r\n\ \ \ \ \ @param\:\ a\ String\ to\ update\ the\ description\ of\ a\ InventoryItem\ ojbect\r\n
+comment4.params=newWeight
+comment4.target=void\ setWeight(double)
+comment4.text=\r\n\ Mutator\ method\ called\ "setWeight"\r\n\ This\ method\ is\ used\ to\ change\ the\ weight\ of\ a\ InventoryItem\ ojbect\r\n\ @param\:\ a\ double\ to\ update\ the\ weight\ of\ a\ InventoryItem\ ojbect\r\n
+comment5.params=
+comment5.target=java.lang.String\ getName()
+comment5.text=\r\n\ Accessor\ method\ called\ "getName"\r\n\ This\ method\ is\ used\ to\ retrieve\ the\ name\ of\ a\ InventoryItem\ ojbect\r\n\ @return\:\ a\ String\ that\ is\ the\ name\ of\ a\ InventoryItem\ ojbect\r\n
+comment6.params=
+comment6.target=java.lang.String\ getDescription()
+comment6.text=\r\n\ Accessor\ method\ called\ "getDescription"\r\n\ This\ method\ is\ used\ to\ retrieve\ the\ description\ of\ a\ InventoryItem\ ojbect\r\n\ @return\:\ a\ String\ that\ is\ the\ description\ of\ a\ InventoryItem\ ojbect\r\n
+comment7.params=
+comment7.target=double\ getWeight()
+comment7.text=\r\n\ Accessor\ method\ called\ "getWeight"\r\n\ This\ method\ is\ used\ to\ retrieve\ the\ weight\ of\ a\ InventoryItem\ ojbect\r\n\ @return\:\ a\ double\ that\ is\ the\ weight\ of\ a\ InventoryItem\ ojbect\r\n
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment8.text=\r\n\ Accessor\ method\ called\ "toString",\ overwrites\ the\ default\ toString\ method\r\n\ This\ method\ is\ used\ to\ retrieve\ all\ of\ the\ characteristics\ of\ a\ InventoryItem\ ojbect\r\n\ @return\:\ a\ String\ that\ is\ all\ of\ the\ characteristics\ of\ a\ InventoryItem\ ojbect\ in\ the\ following\ format\r\n\ \ \ name\:description\:weight\r\n
+numComments=9
